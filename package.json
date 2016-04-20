@@ -1,0 +1,23 @@
+{
+  "name": "socks2http",
+  "version": "0.0.1",
+  "description": "Convert SOCKS proxy to HTTP proxy.",
+  "main": "main.js",
+  "dependencies": {
+    "socks": "^1.1.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yukixz/socks2http.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/yukixz/socks2http/issues"
+  },
+  "homepage": "https://github.com/yukixz/socks2http#readme"
+}
