@@ -2,7 +2,7 @@
   "name": "socks2http",
   "version": "0.0.1",
   "description": "Convert SOCKS proxy to HTTP proxy.",
-  "main": "main.js",
+  "main": "proxy.js",
   "dependencies": {
     "socks": "^1.1.9"
   },
